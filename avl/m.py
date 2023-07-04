@@ -1,5 +1,4 @@
-# reza ebadi
-#4002023025
+
 class Student(object):
     def __init__(self, firstName , lastName , fatherName , birthday , nationalCode , id , phone ,mobileNumber , address):
         self.firstName=firstName
